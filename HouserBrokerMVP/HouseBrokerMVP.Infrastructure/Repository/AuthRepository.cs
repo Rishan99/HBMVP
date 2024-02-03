@@ -43,7 +43,7 @@ namespace HouseBrokerMVP.Infrastructure.Repository
         public async Task<bool> AddUserToRole(ApplicationUser user, string role)
         {
             IdentityResult addUserToRole = await _userManager.AddToRoleAsync(user, role);
-            if (!addUserToRole.Succeeded)
+            if (addUserToRole.Succeeded)
             {
                 return addUserToRole.Succeeded;
             }

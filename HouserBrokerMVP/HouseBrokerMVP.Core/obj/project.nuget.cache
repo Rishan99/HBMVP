@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oVNHkm43kvKrvgnsj2K4fdWva9huvsGVx56D8ABhElAlABADWYg28wYSdrFYh6TBZATZhKMbq7BdlZedawKt3g==",
+  "dgSpecHash": "KFMEHyEjnb3eyATXxinSRMx6uEOUxQbQc+QI9VcQz4l0C97gF9Pz9WXyMk9Qzf2LS2x2psbamr7ykzJqad1isA==",
   "success": true,
-  "projectFilePath": "D:\\Extra\\Dot Net\\HouserBrokerMVP\\HouseBrokerMVP.Core\\HouseBrokerMVP.Core.csproj",
+  "projectFilePath": "D:\\Extra\\Dot Net\\HBMVP\\HouserBrokerMVP\\HouseBrokerMVP.Core\\HouseBrokerMVP.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rishan\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Rishan\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

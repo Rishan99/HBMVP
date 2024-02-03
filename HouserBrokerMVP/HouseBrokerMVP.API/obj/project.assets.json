@@ -4501,10 +4501,12 @@
       "HouseBrokerMVP.Infrastructure >= 1.0.0",
       "JWT >= 10.1.1",
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 7.0.15",
+      "Microsoft.AspNetCore.Identity >= 2.2.0",
       "Microsoft.AspNetCore.OpenApi >= 7.0.2",
       "Microsoft.EntityFrameworkCore.Design >= 7.0.15",
       "Microsoft.Extensions.DependencyInjection.Abstractions >= 8.0.0",
       "Microsoft.Extensions.Identity.Core >= 7.0.15",
+      "Microsoft.IdentityModel.JsonWebTokens >= 7.3.1",
       "Microsoft.IdentityModel.Tokens >= 7.3.1",
       "Newtonsoft.Json >= 13.0.3",
       "Swashbuckle.AspNetCore >= 6.4.0",
@@ -4518,11 +4520,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Extra\\Dot Net\\HouserBrokerMVP\\HouseBrokerMVP.API\\HouseBrokerMVP.API.csproj",
+      "projectUniqueName": "D:\\Extra\\Dot Net\\HBMVP\\HouserBrokerMVP\\HouseBrokerMVP.API\\HouseBrokerMVP.API.csproj",
       "projectName": "HouseBrokerMVP.API",
-      "projectPath": "D:\\Extra\\Dot Net\\HouserBrokerMVP\\HouseBrokerMVP.API\\HouseBrokerMVP.API.csproj",
+      "projectPath": "D:\\Extra\\Dot Net\\HBMVP\\HouserBrokerMVP\\HouseBrokerMVP.API\\HouseBrokerMVP.API.csproj",
       "packagesPath": "C:\\Users\\Rishan\\.nuget\\packages\\",
-      "outputPath": "D:\\Extra\\Dot Net\\HouserBrokerMVP\\HouseBrokerMVP.API\\obj\\",
+      "outputPath": "D:\\Extra\\Dot Net\\HBMVP\\HouserBrokerMVP\\HouseBrokerMVP.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Rishan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4539,14 +4541,14 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\Extra\\Dot Net\\HouserBrokerMVP\\HouseBrokerMVP.Business\\HouseBrokerMVP.Business.csproj": {
-              "projectPath": "D:\\Extra\\Dot Net\\HouserBrokerMVP\\HouseBrokerMVP.Business\\HouseBrokerMVP.Business.csproj"
+            "D:\\Extra\\Dot Net\\HBMVP\\HouserBrokerMVP\\HouseBrokerMVP.Business\\HouseBrokerMVP.Business.csproj": {
+              "projectPath": "D:\\Extra\\Dot Net\\HBMVP\\HouserBrokerMVP\\HouseBrokerMVP.Business\\HouseBrokerMVP.Business.csproj"
             },
-            "D:\\Extra\\Dot Net\\HouserBrokerMVP\\HouseBrokerMVP.Core\\HouseBrokerMVP.Core.csproj": {
-              "projectPath": "D:\\Extra\\Dot Net\\HouserBrokerMVP\\HouseBrokerMVP.Core\\HouseBrokerMVP.Core.csproj"
+            "D:\\Extra\\Dot Net\\HBMVP\\HouserBrokerMVP\\HouseBrokerMVP.Core\\HouseBrokerMVP.Core.csproj": {
+              "projectPath": "D:\\Extra\\Dot Net\\HBMVP\\HouserBrokerMVP\\HouseBrokerMVP.Core\\HouseBrokerMVP.Core.csproj"
             },
-            "D:\\Extra\\Dot Net\\HouserBrokerMVP\\HouseBrokerMVP.Infrastructure\\HouseBrokerMVP.Infrastructure.csproj": {
-              "projectPath": "D:\\Extra\\Dot Net\\HouserBrokerMVP\\HouseBrokerMVP.Infrastructure\\HouseBrokerMVP.Infrastructure.csproj"
+            "D:\\Extra\\Dot Net\\HBMVP\\HouserBrokerMVP\\HouseBrokerMVP.Infrastructure\\HouseBrokerMVP.Infrastructure.csproj": {
+              "projectPath": "D:\\Extra\\Dot Net\\HBMVP\\HouserBrokerMVP\\HouseBrokerMVP.Infrastructure\\HouseBrokerMVP.Infrastructure.csproj"
             }
           }
         }
@@ -4569,6 +4571,10 @@
             "target": "Package",
             "version": "[7.0.15, )"
           },
+          "Microsoft.AspNetCore.Identity": {
+            "target": "Package",
+            "version": "[2.2.0, )"
+          },
           "Microsoft.AspNetCore.OpenApi": {
             "target": "Package",
             "version": "[7.0.2, )"
@@ -4586,6 +4592,10 @@
           "Microsoft.Extensions.Identity.Core": {
             "target": "Package",
             "version": "[7.0.15, )"
+          },
+          "Microsoft.IdentityModel.JsonWebTokens": {
+            "target": "Package",
+            "version": "[7.3.1, )"
           },
           "Microsoft.IdentityModel.Tokens": {
             "target": "Package",

@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Claims;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -13,18 +14,20 @@ namespace HouseBrokerMVP.Core.Utilities
 
         public static string GetLoggedInUsername(IHttpContextAccessor contextAccessor)
         {
-            return "superadmin";
-            var user = contextAccessor.HttpContext?.User ?? throw new Exception("Cannot Find User");
+            try
+            {
+                var user = contextAccessor.HttpContext?.User ?? throw new Exception("Cannot Find User");
 
-            if (!user.Claims.Any())
-                throw new Exception("No claims data!");
+                if (!user.Claims.Any(x => x.Type != ClaimTypes.Name))
+                    throw new Exception("Error, Invalid User");
 
-            if (user.Claims.All(x => x.Type != "username"))
-                throw new Exception("Username not found in claim!");
+                string username = user.Claims.FirstOrDefault(x => x.Type == ClaimTypes.Name)!.Value;
 
-            string username = user.Claims.FirstOrDefault(x => x.Type == "username")!.Value;
-
-            return username;
+                return username;
+            }catch(Exception)
+            {
+                return "superadmin";
+            }
         }
 
         public static DateTime GetCurrentDateTime()

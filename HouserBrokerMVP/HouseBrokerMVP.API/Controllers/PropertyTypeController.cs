@@ -9,7 +9,7 @@ namespace HouseBrokerMVP.API.Controllers
 {
     [Route("api/property-type")]
     [ApiController]
-    // [Authorize(Roles = nameof(RoleEnum.SuperAdmin))]
+    [Authorize]
     public class PropertyTypeController : ControllerBase
     {
         public IPropertyTypeService _propertyTypeService;
@@ -60,7 +60,7 @@ namespace HouseBrokerMVP.API.Controllers
         }
 
         [HttpPut, Route("{id}")]
-        public async Task<IActionResult> UpdatePropType(int id,PropertyTypeUpdateDto data)
+        public async Task<IActionResult> UpdatePropType(int id, PropertyTypeUpdateDto data)
         {
             try
             {

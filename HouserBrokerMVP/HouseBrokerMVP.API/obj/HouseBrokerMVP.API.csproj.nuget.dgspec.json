@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Extra\\Dot Net\\HouserBrokerMVP\\HouseBrokerMVP.API\\HouseBrokerMVP.API.csproj": {}
+    "D:\\Extra\\Dot Net\\HBMVP\\HouserBrokerMVP\\HouseBrokerMVP.API\\HouseBrokerMVP.API.csproj": {}
   },
   "projects": {
-    "D:\\Extra\\Dot Net\\HouserBrokerMVP\\HouseBrokerMVP.API\\HouseBrokerMVP.API.csproj": {
+    "D:\\Extra\\Dot Net\\HBMVP\\HouserBrokerMVP\\HouseBrokerMVP.API\\HouseBrokerMVP.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Extra\\Dot Net\\HouserBrokerMVP\\HouseBrokerMVP.API\\HouseBrokerMVP.API.csproj",
+        "projectUniqueName": "D:\\Extra\\Dot Net\\HBMVP\\HouserBrokerMVP\\HouseBrokerMVP.API\\HouseBrokerMVP.API.csproj",
         "projectName": "HouseBrokerMVP.API",
-        "projectPath": "D:\\Extra\\Dot Net\\HouserBrokerMVP\\HouseBrokerMVP.API\\HouseBrokerMVP.API.csproj",
+        "projectPath": "D:\\Extra\\Dot Net\\HBMVP\\HouserBrokerMVP\\HouseBrokerMVP.API\\HouseBrokerMVP.API.csproj",
         "packagesPath": "C:\\Users\\Rishan\\.nuget\\packages\\",
-        "outputPath": "D:\\Extra\\Dot Net\\HouserBrokerMVP\\HouseBrokerMVP.API\\obj\\",
+        "outputPath": "D:\\Extra\\Dot Net\\HBMVP\\HouserBrokerMVP\\HouseBrokerMVP.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rishan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,14 +28,14 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Extra\\Dot Net\\HouserBrokerMVP\\HouseBrokerMVP.Business\\HouseBrokerMVP.Business.csproj": {
-                "projectPath": "D:\\Extra\\Dot Net\\HouserBrokerMVP\\HouseBrokerMVP.Business\\HouseBrokerMVP.Business.csproj"
+              "D:\\Extra\\Dot Net\\HBMVP\\HouserBrokerMVP\\HouseBrokerMVP.Business\\HouseBrokerMVP.Business.csproj": {
+                "projectPath": "D:\\Extra\\Dot Net\\HBMVP\\HouserBrokerMVP\\HouseBrokerMVP.Business\\HouseBrokerMVP.Business.csproj"
               },
-              "D:\\Extra\\Dot Net\\HouserBrokerMVP\\HouseBrokerMVP.Core\\HouseBrokerMVP.Core.csproj": {
-                "projectPath": "D:\\Extra\\Dot Net\\HouserBrokerMVP\\HouseBrokerMVP.Core\\HouseBrokerMVP.Core.csproj"
+              "D:\\Extra\\Dot Net\\HBMVP\\HouserBrokerMVP\\HouseBrokerMVP.Core\\HouseBrokerMVP.Core.csproj": {
+                "projectPath": "D:\\Extra\\Dot Net\\HBMVP\\HouserBrokerMVP\\HouseBrokerMVP.Core\\HouseBrokerMVP.Core.csproj"
               },
-              "D:\\Extra\\Dot Net\\HouserBrokerMVP\\HouseBrokerMVP.Infrastructure\\HouseBrokerMVP.Infrastructure.csproj": {
-                "projectPath": "D:\\Extra\\Dot Net\\HouserBrokerMVP\\HouseBrokerMVP.Infrastructure\\HouseBrokerMVP.Infrastructure.csproj"
+              "D:\\Extra\\Dot Net\\HBMVP\\HouserBrokerMVP\\HouseBrokerMVP.Infrastructure\\HouseBrokerMVP.Infrastructure.csproj": {
+                "projectPath": "D:\\Extra\\Dot Net\\HBMVP\\HouserBrokerMVP\\HouseBrokerMVP.Infrastructure\\HouseBrokerMVP.Infrastructure.csproj"
               }
             }
           }
@@ -58,6 +58,10 @@
               "target": "Package",
               "version": "[7.0.15, )"
             },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[7.0.2, )"
@@ -75,6 +79,10 @@
             "Microsoft.Extensions.Identity.Core": {
               "target": "Package",
               "version": "[7.0.15, )"
+            },
+            "Microsoft.IdentityModel.JsonWebTokens": {
+              "target": "Package",
+              "version": "[7.3.1, )"
             },
             "Microsoft.IdentityModel.Tokens": {
               "target": "Package",
@@ -120,14 +128,14 @@
         }
       }
     },
-    "D:\\Extra\\Dot Net\\HouserBrokerMVP\\HouseBrokerMVP.Business\\HouseBrokerMVP.Business.csproj": {
+    "D:\\Extra\\Dot Net\\HBMVP\\HouserBrokerMVP\\HouseBrokerMVP.Business\\HouseBrokerMVP.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Extra\\Dot Net\\HouserBrokerMVP\\HouseBrokerMVP.Business\\HouseBrokerMVP.Business.csproj",
+        "projectUniqueName": "D:\\Extra\\Dot Net\\HBMVP\\HouserBrokerMVP\\HouseBrokerMVP.Business\\HouseBrokerMVP.Business.csproj",
         "projectName": "HouseBrokerMVP.Business",
-        "projectPath": "D:\\Extra\\Dot Net\\HouserBrokerMVP\\HouseBrokerMVP.Business\\HouseBrokerMVP.Business.csproj",
+        "projectPath": "D:\\Extra\\Dot Net\\HBMVP\\HouserBrokerMVP\\HouseBrokerMVP.Business\\HouseBrokerMVP.Business.csproj",
         "packagesPath": "C:\\Users\\Rishan\\.nuget\\packages\\",
-        "outputPath": "D:\\Extra\\Dot Net\\HouserBrokerMVP\\HouseBrokerMVP.Business\\obj\\",
+        "outputPath": "D:\\Extra\\Dot Net\\HBMVP\\HouserBrokerMVP\\HouseBrokerMVP.Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rishan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -144,8 +152,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Extra\\Dot Net\\HouserBrokerMVP\\HouseBrokerMVP.Core\\HouseBrokerMVP.Core.csproj": {
-                "projectPath": "D:\\Extra\\Dot Net\\HouserBrokerMVP\\HouseBrokerMVP.Core\\HouseBrokerMVP.Core.csproj"
+              "D:\\Extra\\Dot Net\\HBMVP\\HouserBrokerMVP\\HouseBrokerMVP.Core\\HouseBrokerMVP.Core.csproj": {
+                "projectPath": "D:\\Extra\\Dot Net\\HBMVP\\HouserBrokerMVP\\HouseBrokerMVP.Core\\HouseBrokerMVP.Core.csproj"
               }
             }
           }
@@ -197,14 +205,14 @@
         }
       }
     },
-    "D:\\Extra\\Dot Net\\HouserBrokerMVP\\HouseBrokerMVP.Core\\HouseBrokerMVP.Core.csproj": {
+    "D:\\Extra\\Dot Net\\HBMVP\\HouserBrokerMVP\\HouseBrokerMVP.Core\\HouseBrokerMVP.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Extra\\Dot Net\\HouserBrokerMVP\\HouseBrokerMVP.Core\\HouseBrokerMVP.Core.csproj",
+        "projectUniqueName": "D:\\Extra\\Dot Net\\HBMVP\\HouserBrokerMVP\\HouseBrokerMVP.Core\\HouseBrokerMVP.Core.csproj",
         "projectName": "HouseBrokerMVP.Core",
-        "projectPath": "D:\\Extra\\Dot Net\\HouserBrokerMVP\\HouseBrokerMVP.Core\\HouseBrokerMVP.Core.csproj",
+        "projectPath": "D:\\Extra\\Dot Net\\HBMVP\\HouserBrokerMVP\\HouseBrokerMVP.Core\\HouseBrokerMVP.Core.csproj",
         "packagesPath": "C:\\Users\\Rishan\\.nuget\\packages\\",
-        "outputPath": "D:\\Extra\\Dot Net\\HouserBrokerMVP\\HouseBrokerMVP.Core\\obj\\",
+        "outputPath": "D:\\Extra\\Dot Net\\HBMVP\\HouserBrokerMVP\\HouseBrokerMVP.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rishan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -276,14 +284,14 @@
         }
       }
     },
-    "D:\\Extra\\Dot Net\\HouserBrokerMVP\\HouseBrokerMVP.Infrastructure\\HouseBrokerMVP.Infrastructure.csproj": {
+    "D:\\Extra\\Dot Net\\HBMVP\\HouserBrokerMVP\\HouseBrokerMVP.Infrastructure\\HouseBrokerMVP.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Extra\\Dot Net\\HouserBrokerMVP\\HouseBrokerMVP.Infrastructure\\HouseBrokerMVP.Infrastructure.csproj",
+        "projectUniqueName": "D:\\Extra\\Dot Net\\HBMVP\\HouserBrokerMVP\\HouseBrokerMVP.Infrastructure\\HouseBrokerMVP.Infrastructure.csproj",
         "projectName": "HouseBrokerMVP.Infrastructure",
-        "projectPath": "D:\\Extra\\Dot Net\\HouserBrokerMVP\\HouseBrokerMVP.Infrastructure\\HouseBrokerMVP.Infrastructure.csproj",
+        "projectPath": "D:\\Extra\\Dot Net\\HBMVP\\HouserBrokerMVP\\HouseBrokerMVP.Infrastructure\\HouseBrokerMVP.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Rishan\\.nuget\\packages\\",
-        "outputPath": "D:\\Extra\\Dot Net\\HouserBrokerMVP\\HouseBrokerMVP.Infrastructure\\obj\\",
+        "outputPath": "D:\\Extra\\Dot Net\\HBMVP\\HouserBrokerMVP\\HouseBrokerMVP.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rishan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -300,8 +308,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Extra\\Dot Net\\HouserBrokerMVP\\HouseBrokerMVP.Core\\HouseBrokerMVP.Core.csproj": {
-                "projectPath": "D:\\Extra\\Dot Net\\HouserBrokerMVP\\HouseBrokerMVP.Core\\HouseBrokerMVP.Core.csproj"
+              "D:\\Extra\\Dot Net\\HBMVP\\HouserBrokerMVP\\HouseBrokerMVP.Core\\HouseBrokerMVP.Core.csproj": {
+                "projectPath": "D:\\Extra\\Dot Net\\HBMVP\\HouserBrokerMVP\\HouseBrokerMVP.Core\\HouseBrokerMVP.Core.csproj"
               }
             }
           }

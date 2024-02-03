@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CBxqPYBA0OTUijyuIZ7BX9ZjBakr2hjN1jXYtuTiTpzpU/xoC0BhwzyQWMtb0mFCzARG8AG/z1NTV0pQT8ySew==",
+  "dgSpecHash": "BafhJRA+iEqv4wqSLFfysRKNAy9Munqw61Rz468iVcsi/aYbYAixiLauSJ7xOhcQpHn7OP1fCyOBs2Jbeya6PQ==",
   "success": true,
-  "projectFilePath": "D:\\Extra\\Dot Net\\HouserBrokerMVP\\HouseBrokerMVP.API\\HouseBrokerMVP.API.csproj",
+  "projectFilePath": "D:\\Extra\\Dot Net\\HBMVP\\HouserBrokerMVP\\HouseBrokerMVP.API\\HouseBrokerMVP.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rishan\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Rishan\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

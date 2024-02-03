@@ -12,3 +12,17 @@ D:\Extra\Dot Net\HouserBrokerMVP\HouseBrokerMVP.Core\obj\Debug\net7.0\HouseBroke
 D:\Extra\Dot Net\HouserBrokerMVP\HouseBrokerMVP.Core\obj\Debug\net7.0\ref\HouseBrokerMVP.Core.dll
 D:\Extra\Dot Net\HouserBrokerMVP\HouseBrokerMVP.Core\bin\Debug\net7.0\HouseBrokerMVP.Core.runtimeconfig.json
 D:\Extra\Dot Net\HouserBrokerMVP\HouseBrokerMVP.Core\obj\Debug\net7.0\HouseBrokerMVP.Core.genruntimeconfig.cache
+D:\Extra\Dot Net\HBMVP\HouserBrokerMVP\HouseBrokerMVP.Core\bin\Debug\net7.0\HouseBrokerMVP.Core.deps.json
+D:\Extra\Dot Net\HBMVP\HouserBrokerMVP\HouseBrokerMVP.Core\bin\Debug\net7.0\HouseBrokerMVP.Core.runtimeconfig.json
+D:\Extra\Dot Net\HBMVP\HouserBrokerMVP\HouseBrokerMVP.Core\bin\Debug\net7.0\HouseBrokerMVP.Core.dll
+D:\Extra\Dot Net\HBMVP\HouserBrokerMVP\HouseBrokerMVP.Core\bin\Debug\net7.0\HouseBrokerMVP.Core.pdb
+D:\Extra\Dot Net\HBMVP\HouserBrokerMVP\HouseBrokerMVP.Core\obj\Debug\net7.0\HouseBrokerMVP.Core.csproj.AssemblyReference.cache
+D:\Extra\Dot Net\HBMVP\HouserBrokerMVP\HouseBrokerMVP.Core\obj\Debug\net7.0\HouseBrokerMVP.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Extra\Dot Net\HBMVP\HouserBrokerMVP\HouseBrokerMVP.Core\obj\Debug\net7.0\HouseBrokerMVP.Core.AssemblyInfoInputs.cache
+D:\Extra\Dot Net\HBMVP\HouserBrokerMVP\HouseBrokerMVP.Core\obj\Debug\net7.0\HouseBrokerMVP.Core.AssemblyInfo.cs
+D:\Extra\Dot Net\HBMVP\HouserBrokerMVP\HouseBrokerMVP.Core\obj\Debug\net7.0\HouseBrokerMVP.Core.csproj.CoreCompileInputs.cache
+D:\Extra\Dot Net\HBMVP\HouserBrokerMVP\HouseBrokerMVP.Core\obj\Debug\net7.0\HouseBrokerMVP.Core.dll
+D:\Extra\Dot Net\HBMVP\HouserBrokerMVP\HouseBrokerMVP.Core\obj\Debug\net7.0\refint\HouseBrokerMVP.Core.dll
+D:\Extra\Dot Net\HBMVP\HouserBrokerMVP\HouseBrokerMVP.Core\obj\Debug\net7.0\HouseBrokerMVP.Core.pdb
+D:\Extra\Dot Net\HBMVP\HouserBrokerMVP\HouseBrokerMVP.Core\obj\Debug\net7.0\HouseBrokerMVP.Core.genruntimeconfig.cache
+D:\Extra\Dot Net\HBMVP\HouserBrokerMVP\HouseBrokerMVP.Core\obj\Debug\net7.0\ref\HouseBrokerMVP.Core.dll
