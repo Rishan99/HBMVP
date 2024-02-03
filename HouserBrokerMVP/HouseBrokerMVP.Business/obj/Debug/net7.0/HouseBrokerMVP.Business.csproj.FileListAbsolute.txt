@@ -1,0 +1,15 @@
+D:\Extra\Dot Net\HouserBrokerMVP\HouseBrokerMVP.Business\bin\Debug\net7.0\HouseBrokerMVP.Business.deps.json
+D:\Extra\Dot Net\HouserBrokerMVP\HouseBrokerMVP.Business\bin\Debug\net7.0\HouseBrokerMVP.Business.dll
+D:\Extra\Dot Net\HouserBrokerMVP\HouseBrokerMVP.Business\bin\Debug\net7.0\HouseBrokerMVP.Business.pdb
+D:\Extra\Dot Net\HouserBrokerMVP\HouseBrokerMVP.Business\obj\Debug\net7.0\HouseBrokerMVP.Business.csproj.AssemblyReference.cache
+D:\Extra\Dot Net\HouserBrokerMVP\HouseBrokerMVP.Business\obj\Debug\net7.0\HouseBrokerMVP.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Extra\Dot Net\HouserBrokerMVP\HouseBrokerMVP.Business\obj\Debug\net7.0\HouseBrokerMVP.Business.AssemblyInfoInputs.cache
+D:\Extra\Dot Net\HouserBrokerMVP\HouseBrokerMVP.Business\obj\Debug\net7.0\HouseBrokerMVP.Business.AssemblyInfo.cs
+D:\Extra\Dot Net\HouserBrokerMVP\HouseBrokerMVP.Business\obj\Debug\net7.0\HouseBrokerMVP.Business.csproj.CoreCompileInputs.cache
+D:\Extra\Dot Net\HouserBrokerMVP\HouseBrokerMVP.Business\obj\Debug\net7.0\HouseBrokerMVP.Business.dll
+D:\Extra\Dot Net\HouserBrokerMVP\HouseBrokerMVP.Business\obj\Debug\net7.0\refint\HouseBrokerMVP.Business.dll
+D:\Extra\Dot Net\HouserBrokerMVP\HouseBrokerMVP.Business\obj\Debug\net7.0\HouseBrokerMVP.Business.pdb
+D:\Extra\Dot Net\HouserBrokerMVP\HouseBrokerMVP.Business\obj\Debug\net7.0\ref\HouseBrokerMVP.Business.dll
+D:\Extra\Dot Net\HouserBrokerMVP\HouseBrokerMVP.Business\bin\Debug\net7.0\HouseBrokerMVP.Core.dll
+D:\Extra\Dot Net\HouserBrokerMVP\HouseBrokerMVP.Business\bin\Debug\net7.0\HouseBrokerMVP.Core.pdb
+D:\Extra\Dot Net\HouserBrokerMVP\HouseBrokerMVP.Business\obj\Debug\net7.0\HouseBrokerMVP.Business.csproj.CopyComplete

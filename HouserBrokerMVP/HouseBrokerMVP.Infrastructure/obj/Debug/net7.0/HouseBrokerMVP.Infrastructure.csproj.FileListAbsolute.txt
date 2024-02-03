@@ -1,0 +1,15 @@
+D:\Extra\Dot Net\HouserBrokerMVP\HouseBrokerMVP.Infrastructure\obj\Debug\net7.0\HouseBrokerMVP.Infrastructure.csproj.AssemblyReference.cache
+D:\Extra\Dot Net\HouserBrokerMVP\HouseBrokerMVP.Infrastructure\obj\Debug\net7.0\HouseBrokerMVP.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Extra\Dot Net\HouserBrokerMVP\HouseBrokerMVP.Infrastructure\obj\Debug\net7.0\HouseBrokerMVP.Infrastructure.AssemblyInfoInputs.cache
+D:\Extra\Dot Net\HouserBrokerMVP\HouseBrokerMVP.Infrastructure\obj\Debug\net7.0\HouseBrokerMVP.Infrastructure.AssemblyInfo.cs
+D:\Extra\Dot Net\HouserBrokerMVP\HouseBrokerMVP.Infrastructure\obj\Debug\net7.0\HouseBrokerMVP.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Extra\Dot Net\HouserBrokerMVP\HouseBrokerMVP.Infrastructure\bin\Debug\net7.0\HouseBrokerMVP.Infrastructure.deps.json
+D:\Extra\Dot Net\HouserBrokerMVP\HouseBrokerMVP.Infrastructure\bin\Debug\net7.0\HouseBrokerMVP.Infrastructure.dll
+D:\Extra\Dot Net\HouserBrokerMVP\HouseBrokerMVP.Infrastructure\bin\Debug\net7.0\HouseBrokerMVP.Infrastructure.pdb
+D:\Extra\Dot Net\HouserBrokerMVP\HouseBrokerMVP.Infrastructure\bin\Debug\net7.0\HouseBrokerMVP.Core.dll
+D:\Extra\Dot Net\HouserBrokerMVP\HouseBrokerMVP.Infrastructure\bin\Debug\net7.0\HouseBrokerMVP.Core.pdb
+D:\Extra\Dot Net\HouserBrokerMVP\HouseBrokerMVP.Infrastructure\obj\Debug\net7.0\HouseBrokerMVP.Infrastructure.csproj.CopyComplete
+D:\Extra\Dot Net\HouserBrokerMVP\HouseBrokerMVP.Infrastructure\obj\Debug\net7.0\HouseBrokerMVP.Infrastructure.dll
+D:\Extra\Dot Net\HouserBrokerMVP\HouseBrokerMVP.Infrastructure\obj\Debug\net7.0\refint\HouseBrokerMVP.Infrastructure.dll
+D:\Extra\Dot Net\HouserBrokerMVP\HouseBrokerMVP.Infrastructure\obj\Debug\net7.0\HouseBrokerMVP.Infrastructure.pdb
+D:\Extra\Dot Net\HouserBrokerMVP\HouseBrokerMVP.Infrastructure\obj\Debug\net7.0\ref\HouseBrokerMVP.Infrastructure.dll
