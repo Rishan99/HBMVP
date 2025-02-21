@@ -1,6 +1,7 @@
 ﻿using HouseBrokerMVP.Business.DTO;
 using HouseBrokerMVP.Business.Services;
 using HouseBrokerMVP.Business.Services.FilePathProvider;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
@@ -8,7 +9,7 @@ namespace HouseBrokerMVP.API.Controllers
 {
     [Route("api/property")]
     [ApiController]
-    [Authorize]
+    [Authorize(AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme)]
     public class PropertyController : ControllerBase
     {
         private readonly IPropertyService _propertyService;

@@ -1,6 +1,7 @@
 ﻿using HouseBrokerMVP.Business.DTO;
 using HouseBrokerMVP.Business.Services;
 using HouseBrokerMVP.Core.Enum;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -39,7 +40,8 @@ namespace HouseBrokerMVP.API.Controllers
 
         [Route("change-password")]
         [HttpPost]
-        [Authorize]
+        
+        [Authorize(AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme)]
         public async Task<IActionResult> ChangePassword(ChangePasswordDto data)
         {
             await _authService.ChangePassword(data);
@@ -48,7 +50,7 @@ namespace HouseBrokerMVP.API.Controllers
         }
         [Route("me")]
         [HttpGet]
-        [Authorize]
+        [Authorize(AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme)]
         public async Task<IActionResult> GetMyDetails()
         {
             var data = await _authService.GetMyDetails();

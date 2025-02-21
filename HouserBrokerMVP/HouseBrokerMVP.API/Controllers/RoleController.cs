@@ -1,6 +1,7 @@
 ﻿using HouseBrokerMVP.Business.DTO;
 using HouseBrokerMVP.Business.Services;
 using HouseBrokerMVP.Core.Enum;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -9,7 +10,7 @@ namespace HouseBrokerMVP.API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    [Authorize]
+    [Authorize(AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme)]
     public class RoleController : ControllerBase
     {
 
