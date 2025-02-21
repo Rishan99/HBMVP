@@ -1,5 +1,7 @@
 # House Broker MVP
 
+## addmigration.bat: to add migration, supply migration name. Example in CLI: addmigration first
+## dbupdate.bat: to apply migrations, Example in CLI: dbupdate
 
 ## Endpoints
 
