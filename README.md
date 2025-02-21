@@ -1,4 +1,8 @@
 # House Broker MVP
+
+## Database Configure
+  HouserBrokerMVP>HouseBrokerMVP.API>appsettings.json: Change ConnetionSettings:DefaultConnection as per your sql server hostname and authentication mechanism
+  
 ## Migrations 
 
 **addmigration.bat**

@@ -18,7 +18,6 @@ namespace HouseBrokerMVP.API.ExcepitonHandler
         public async Task Invoke(HttpContext context)
         {
             var response = context.Response;
-
             try
             {
                 await _next(context);
@@ -27,7 +26,7 @@ namespace HouseBrokerMVP.API.ExcepitonHandler
             {
                 // handle as per exception type and log info, for now i am capturing all type and returing message only
                 response.StatusCode = (int)HttpStatusCode.BadRequest;
-                await response.WriteAsync(error.Message);
+                await response.WriteAsJsonAsync(error.Message);
             }
         }
     }
